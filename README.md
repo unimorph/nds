@@ -2,7 +2,7 @@
 
 # Low German (nds)
 
-Contains Middle Low German paradigms including: adjectives and verbs.
+Contains Low German paradigms including: adjectives and verbs.
 
 Source:
 - `nds`: English Wiktionary
